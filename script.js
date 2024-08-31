@@ -20,7 +20,7 @@ function setColor(element) {
 
 function removeColor(element) {
     setTimeout(() => {
-        element.style.backgroundColor = '#333';
+        element.style.backgroundColor = 'rgb(29, 29, 29)';
     }, 1000);
 }
 
